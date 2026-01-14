@@ -1,0 +1,5 @@
+{
+  "name": "Anqair — Generative UI Studio",
+  "description": "A high-performance design-to-code platform that generates three distinct UI variations from a single prompt using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
